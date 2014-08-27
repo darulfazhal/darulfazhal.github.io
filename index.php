@@ -11,7 +11,7 @@
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script type="text/javascript" src="javascripts/script.js"></script>
 
-  <title>Darulfazhal.github.io</title>
+  <title>Fazhal Darul</title>
   <meta name="description" content="darulfazhal.github.io">
 
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -22,20 +22,17 @@
 
   <div class="wrapper">
     <header>
-      <h1 class="title">Darulfazhal.github.io</h1>
+      <h1 class="title">WELCOME</h1>
     </header>
     <div id="container">
-      <p class="tagline">darulfazhal.github.io</p>
+      <p class="tagline"></p>
       <div id="main" role="main">
         <div class="download-bar">
-        <div class="inner">
-          <a href="https://github.com/darulfazhal" class="code">View Darulfazhal.github.io on GitHub</a>
-        </div>
+        
         <span class="blc"></span><span class="trc"></span>
         </div>
         <article class="markdown-body">
-          <h3>
-<a name="testing" class="anchor" href="#testing"><span class="octicon octicon-link"></span></a>TESTING</h3>
+        <img src="images/website_under_construction.gif">
         </article>
       </div>
     </div>
@@ -45,9 +42,7 @@
       <p><a href="https://github.com/darulfazhal" class="avatar"><img src="https://avatars0.githubusercontent.com/u/4144446?v=2&amp;s=60" width="48" height="48"></a>View <a href="https://github.com/darulfazhal">darulfazhal</a> on <a href="https://www.github.com">GitHub</a></p>
 
       </div>
-      <div class="creds">
-        <small>This page generated using <a href="http://pages.github.com/">GitHub Pages</a><br>theme by <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
-      </div>
+      
     </footer>
   </div>
   <div class="current-section">
